@@ -1,6 +1,5 @@
-25/01/02 첫 커밋
-
+Date: 25/01/02
 IDE: Android Studio
-Kotlin으로 구성
+Language: Kotlin
 
 안드로이드용 계산기 모듈 (초보 퀄리티)
