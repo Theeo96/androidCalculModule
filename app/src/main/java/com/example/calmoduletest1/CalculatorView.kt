@@ -28,7 +28,7 @@ class CalculatorView @JvmOverloads constructor(
         display = findViewById(R.id.display)
     }
 
-    // 이 메서드 추가
+
     fun setOnResultListener(listener: (String) -> Unit) {
         onResultListener = listener
     }
